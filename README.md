@@ -1,0 +1,1 @@
+# daishin_asset_management
