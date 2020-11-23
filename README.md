@@ -1,1 +1,1 @@
-# daishin_asset_management
+# DAISIN_ASSET_MANAGEMENT
